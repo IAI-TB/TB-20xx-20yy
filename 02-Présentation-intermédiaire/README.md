@@ -1,0 +1,1 @@
+Répertoire dédié à la présentation intermédiaire de ce projet.

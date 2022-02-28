@@ -1,2 +1,2 @@
-# TB-20xx-20yy
-Template for TB
+# TB-20xx-20yy-Nom-Prenom
+TB de Prenom Nom - Sujet
